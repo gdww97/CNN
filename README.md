@@ -21,3 +21,5 @@
 [10.MnasNet](https://github.com/gdww97/CNN/blob/master/tutorials/10.MnasNet.pdf)
 
 [11.ShuffleNet](https://github.com/gdww97/CNN/blob/master/tutorials/11.ShuffleNet.pdf)
+
+[12.EfficientNet](https://github.com/gdww97/CNN/blob/master/tutorials/12.EfficientNet.pdf)
